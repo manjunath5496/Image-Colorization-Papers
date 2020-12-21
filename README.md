@@ -69,5 +69,21 @@ Colorization Through Text-based Palette Generation</a></li>
 Few-Shot Colorization via Memory Augmented Networks</a></li> 
  
   <li><a target="_blank" href="https://github.com/manjunath5496/Image-Colorization-Papers/blob/master/co(35).pdf" style="text-decoration:none;">Deep Exemplar-based Video Colorization</a></li> 
+  
+<li><a target="_blank" href="https://github.com/manjunath5496/Image-Colorization-Papers/blob/master/co(36).pdf" style="text-decoration:none;">Colorization of black-and-white images using deep neural networks</a></li> 
+ 
+<li><a target="_blank" href="https://github.com/manjunath5496/Image-Colorization-Papers/blob/master/co(37).pdf" style="text-decoration:none;">Colorful Image Colorization</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Image-Colorization-Papers/blob/master/co(38).pdf" style="text-decoration:none;">Image Colorization Using a Deep Convolutional Neural Network</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Image-Colorization-Papers/blob/master/co(39).pdf" style="text-decoration:none;">Machine Learning based Efficient Image colorization</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Image-Colorization-Papers/blob/master/co(40).pdf" style="text-decoration:none;">Automatic Colorization of Grayscale Image</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Image-Colorization-Papers/blob/master/co(41).pdf" style="text-decoration:none;">Probabilistic Image Colorization</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Image-Colorization-Papers/blob/master/co(42).pdf" style="text-decoration:none;">Image Colorization with Neural Networks</a></li>  
+  
+  
+  
+  
+  
+  
+  
 
 </ul>
